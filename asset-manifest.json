@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/DashGlance/static/css/main.b9d61bfa.css",
+    "main.js": "/DashGlance/static/js/main.89db1bac.js",
+    "index.html": "/DashGlance/index.html",
+    "main.b9d61bfa.css.map": "/DashGlance/static/css/main.b9d61bfa.css.map",
+    "main.89db1bac.js.map": "/DashGlance/static/js/main.89db1bac.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b9d61bfa.css",
+    "static/js/main.89db1bac.js"
+  ]
+}
